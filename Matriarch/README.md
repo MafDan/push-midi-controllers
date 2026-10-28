@@ -17,6 +17,12 @@ This editor provides comprehensive access to the Matriarch's front panel and und
 3. Set the track's **MIDI To** and **MIDI From** to your Moog Matriarch.
 4. *(Optional but recommended)* Save the device to your User Library under `MIDI Effects > Max MIDI Effect` for easy access.
 
+<img src="assets/compact-view.png" width="600" alt="Compact View">
+
+<img src="assets/expanded-view.png" width="600" alt="Expanded View">
+
+<img src="assets/live-view.png" width="600" alt="Live View">
+
 ---
 
 ## Release History
