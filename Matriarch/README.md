@@ -21,7 +21,17 @@ This editor provides comprehensive access to the Matriarch's front panel and und
 
 ## Release History
 
-### v1.3.2 (Latest)
+## v1.3.3: Compact UI Overhaul & Sustain Filter Toggle (Latest)
+
+### ✨ UI & Workflow Enhancements
+* **New Compact View:** The device UI has been completely redesigned to save valuable screen real estate in Ableton Live. By default, the device now boots in a compact state, displaying only the essential performance controls.
+* **Expandable Tabbed Settings:** Deep device configuration has been moved into a sliding, expandable window. Simply click the new navigation tabs (Seq, Voice, MIDI, Global) to reveal these advanced settings, and click `<<` to snap the device shut when you are done. 
+
+### 🐛 Bug Fixes & Hardware Compatibility
+* **Sustain (CC 64) Input Toggle:** Added a dedicated switch in the Global tab to allow or block incoming MIDI CC 64 messages. 
+  * *Context:* This reverses the hard-coded CC 64 block introduced in v1.3.1. By default, this switch is set to **Off** to filter out the erroneous CC 64 spam caused by the official Moog Matriarch v1.3.0 firmware bug. You should only turn this switch **On** if you are running the custom `benjamindehli` patched firmware, which restores proper sustain pedal functionality.
+
+### v1.3.2
 * **14-Bit MIDI Support:** Added full 14-bit MIDI CC control support for high-resolution parameters (e.g., Delay Time), ensuring smooth, zipper-free sweeps.
 * **Routing Optimization:** Cleaned up internal MIDI and SysEx routing architectures, eliminating feedback loops and idle jitter for stable Push 3 sync. 
 
