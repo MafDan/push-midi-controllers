@@ -27,7 +27,9 @@ This editor provides comprehensive access to the Matriarch's front panel and und
 
 ## Release History
 
-## v1.3.3: Compact UI Overhaul & Sustain Filter Toggle (Latest)
+## v1.3.4: Adds live.dial parameter values back to the desktop GUI
+
+## v1.3.3: Compact UI Overhaul & Sustain Filter Toggle
 
 ### ✨ UI & Workflow Enhancements
 * **New Compact View:** The device UI has been completely redesigned to save valuable screen real estate in Ableton Live. By default, the device now boots in a compact state, displaying only the essential performance controls.
