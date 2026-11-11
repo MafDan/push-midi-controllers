@@ -4,3 +4,4 @@ A collection of Max for Live devices for controlling studio hardware equipment f
 
 ## Available Controllers
 * [Matriarch](./Matriarch) - Moog Matriarch Max for Live Editor.
+* [Buchla208C](./Buchla208C) - Buchla 208C Max for Live Controller
