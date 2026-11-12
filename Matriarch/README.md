@@ -5,11 +5,11 @@ A robust, bidirectional Max for Live (M4L) device designed to seamlessly integra
 This editor provides comprehensive access to the Matriarch's front panel and under-the-hood Global Parameters. It is specifically engineered to handle the Matriarch's unique hardware quirks, accurately parsing 14-bit high-resolution MIDI CCs, translating complex SysEx commands, and working around native firmware bugs to ensure your UI and hardware stay perfectly in sync.
 
 ## Key Features
-* **Push 3 Standalone Optimized:** All parameters are logically mapped across 9 parameter banks, with UI elements configured to display cleanly on the Push 3 screen.
-* **True Bidirectional Sync:** Turning a physical knob on the Matriarch instantly updates Ableton, and adjusting a parameter in Live or on the Push seamlessly controls the synth without MIDI feedback loops.
-* **14-Bit Precision:** Flawless 14-bit MIDI CC handling for high-resolution analog parameters like Delay Time and Oscillator Frequencies.
-* **SysEx Global Control:** A dedicated fold-out section to manage the Matriarch's hidden Global Settings without needing to navigate physical keybed menu diving.
-* **Firmware Bug Workarounds:** Built-in math and routing to handle Moog's non-standard MIDI switch behaviors and prevent MIDI flooding.
+* Push 3 Standalone Optimsed:** All parameters are logically mapped across 9 parameter banks, with UI elements configured to display cleanly on the Push 3 screen.
+* True Bidirectional Sync:** Turning a physical knob on the Matriarch instantly updates Ableton, and adjusting a parameter in Live or on the Push seamlessly controls the synth without MIDI feedback loops.
+* 14-Bit Precision:** Flawless 14-bit MIDI CC handling for high-resolution analog parameters like Delay Time and Oscillator Frequencies.
+* SysEx Global Control:** A dedicated fold-out section to manage the Matriarch's hidden Global Settings without needing to navigate physical keybed menu diving.
+* Firmware Bug Workarounds:** Built-in math and routing to handle Moog's non-standard MIDI switch behaviours and prevent MIDI flooding.
 
 ## Installation
 1. Download the latest `.amxd` file from the Releases page.
